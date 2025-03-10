@@ -8,7 +8,7 @@
 
 ###
 
-<p align="center">Junior MERN Stack Developer** | Passionate about building scalable & user-friendly web applications</p>
+<p align="center">React & Note.js Enthusiast | Passionate About Frontend Development | Creating Modern and Scalable Web Application</p>
 
 ###
 
